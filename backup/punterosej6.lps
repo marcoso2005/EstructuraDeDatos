@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="punterosej6.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="157"/>
+        <CursorPos X="51" Y="176"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="198" Column="18" TopLine="184"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="201" Column="57" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="217" Column="27" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="202" Column="54" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="217" Column="27" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="216" Column="20" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="219" Column="27" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="235" Column="29" TopLine="212"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="219" Column="23" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="53" Column="11" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="44" Column="18" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="42" Column="7" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="53" Column="14" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="57" Column="14" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="46" Column="26" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="80" Column="25" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="73" Column="3" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="109" Column="60" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="73" Column="17" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="77" Column="16" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="76" Column="19" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="71" Column="56" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="75" Column="19" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="72" Column="71" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="109" Column="40" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="203" Column="29" TopLine="189"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="95" Column="30" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="109" Column="50" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="237" Column="18" TopLine="222"/>
+      </Position>
+      <Position>
+        <Filename Value="punterosej6.lpr"/>
+        <Caret Line="188" TopLine="157"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
