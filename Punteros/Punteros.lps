@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Punteros.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PunterosEj1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="41"/>
+        <CursorPos X="30" Y="43"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="12" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="14" Column="21" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="62" Column="11" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="56" Column="38" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="26" Column="38" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="33" Column="36" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="30" Column="16" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="43" Column="36" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Punteros.lpr"/>
+        <Caret Line="56" Column="38" TopLine="41"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
