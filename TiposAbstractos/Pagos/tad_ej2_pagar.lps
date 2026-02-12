@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="tad_ej2_pagar.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="41"/>
+        <CursorPos X="15" Y="64"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upagotarjeta.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPagoTarjeta"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="3"/>
+        <CursorPos X="40" Y="23"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upagobizum.pas"/>
+        <UnitName Value="uPagoBizum"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="43" Y="23"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upagotransferencia.pas"/>
+        <UnitName Value="uPagoTransferencia"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="3"/>
+        <CursorPos X="41" Y="23"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="tad_ej2_pagar.lpr"/>
+        <Caret Line="11" Column="34"/>
+      </Position>
+      <Position>
+        <Filename Value="upagotarjeta.pas"/>
+        <Caret Line="21" Column="54" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="upagobizum.pas"/>
+        <Caret Line="23" Column="46" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="upagotarjeta.pas"/>
+        <Caret Line="23" Column="42" TopLine="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="tad_ej3_gestion_academica.pas.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="50" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uAsignaturaEvalContinua"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="22"/>
+        <CursorPos X="69" Y="40"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uasignaturaevalfinal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uAsignaturaEvalFinal"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="12"/>
+        <CursorPos X="5" Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upersona.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPersona"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="142" Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="uasignaturaevalfinal.pas"/>
+        <Caret Line="35" Column="5" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="18" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="28" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="12" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="7" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="30" Column="20" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="32" Column="32" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="upersona.pas"/>
+        <Caret Line="35" Column="142" TopLine="21"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
