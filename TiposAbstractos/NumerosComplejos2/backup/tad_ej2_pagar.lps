@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="tad_ej2_pagar.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="16" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upagotarjeta.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPagoTarjeta"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="13"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upagobizum.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPagoBizum"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="13"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upagotransferencia.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPagoTransferencia"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="13"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Pagos\tad_ej2_pagar.lpi"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Pagos\tad_ej2_pagar.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Pagos\ucomplejos.pas"/>
+        <UnitName Value="uComplejos"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Pagos\upagobizum.pas"/>
+        <UnitName Value="uPagoBizum"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="41" Y="11"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Pagos\upagotarjeta.pas"/>
+        <UnitName Value="uPagoTarjeta"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="18"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Pagos\upagotransferencia.pas"/>
+        <UnitName Value="uPagoTransferencia"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="24" Y="8"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory>
+      <Position>
+        <Filename Value="tad_ej2_pagar.lpr"/>
+        <Caret Line="5" Column="50" TopLine="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

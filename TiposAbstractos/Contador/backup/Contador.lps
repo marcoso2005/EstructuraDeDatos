@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Contador.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TestContador"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="10" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucontador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uContador"/>
+        <CursorPos X="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="ucontador.pas"/>
+        <Caret Line="9" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="ucontador.pas"/>
+        <Caret Line="38" Column="28" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="ucontador.pas"/>
+        <Caret Line="22" Column="8" TopLine="17"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
