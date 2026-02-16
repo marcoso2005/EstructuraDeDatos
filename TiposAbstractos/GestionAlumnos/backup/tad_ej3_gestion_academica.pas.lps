@@ -8,8 +8,9 @@
       <Unit>
         <Filename Value="tad_ej3_gestion_academica.pas.lpr"/>
         <IsPartOfProject Value="True"/>
-        <CursorPos X="50" Y="13"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="36"/>
+        <CursorPos X="10" Y="57"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -17,33 +18,34 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="uAsignaturaEvalContinua"/>
         <EditorIndex Value="2"/>
-        <CursorPos X="5" Y="42"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="78"/>
+        <CursorPos X="5" Y="47"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="uasignaturaevalfinal.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="uAsignaturaEvalFinal"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
-        <TopLine Value="12"/>
-        <CursorPos X="5" Y="35"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="38"/>
+        <CursorPos X="33" Y="43"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="upersona.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="uPersona"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <TopLine Value="21"/>
         <CursorPos X="142" Y="35"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="7">
+    <JumpHistory HistoryIndex="24">
       <Position>
         <Filename Value="uasignaturaevalfinal.pas"/>
         <Caret Line="35" Column="5" TopLine="12"/>
@@ -74,7 +76,75 @@
       </Position>
       <Position>
         <Filename Value="upersona.pas"/>
-        <Caret Line="35" Column="131" TopLine="21"/>
+        <Caret Line="35" Column="142" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="39" Column="8" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="19" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="56" Column="43" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="55" Column="12" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="79" Column="21" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="70" Column="8" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="71" Column="9" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="93" Column="28" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="52" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="94" Column="28" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalfinal.pas"/>
+        <Caret Line="14" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalfinal.pas"/>
+        <Caret Line="70" Column="15" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalfinal.pas"/>
+        <Caret Line="46" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="89" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="90" Column="16" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="89" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uasignaturaevalcontinua.pas"/>
+        <Caret Line="90" TopLine="76"/>
       </Position>
     </JumpHistory>
     <RunParams>

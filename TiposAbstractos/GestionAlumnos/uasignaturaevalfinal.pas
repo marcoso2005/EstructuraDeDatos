@@ -7,7 +7,13 @@ uses uPersona;
 const
   MAX_ALUMNOS = 30;
 
-// Definición de registros y tipos enumerados
+type
+  TAsignatura = RECORD
+    Profesor : PPersona;
+    Alumnos: array[1..MAX_ALUMNOS] of PPersona;
+    Notas: array[1..MAX_ALUMNOS] of REAL;
+    NumAlumnos: integer;
+  end;
 
 procedure InicializarAsignatura(var A: TAsignatura; Prof: PPersona);
 procedure AnadirAlumno(var A: TAsignatura; Alumno: PPersona);
@@ -31,5 +37,50 @@ end;
 
 
 // Implementación de las funciones y procedimientos para la asignatura con evaluación final
+procedure InicializarAsignatura(var A: TAsignatura; Prof: PPersona);
+begin
+    A.Profesor := prof;
+    a.numAlumnos := MAX_ALUMNOS;
+end;
 
+procedure AnadirAlumno(var A: TAsignatura; Alumno: PPersona);
+var
+  i: integer;
+  guardado : boolean;
+begin
+  guardado:= false;
+  i := 1;
+  while (i < MAX_ALUMNOS) AND NOT guardado do
+  begin
+    if A.alumnos[i] = NIL THEN
+    begin
+      a.alumnos[i] := alumno;
+      guardado := true;
+    end;
+  end;
+end;
+
+procedure Evaluar(var A: TAsignatura; AlumnoDNI: string; Nota: Real);
+var
+  pos: integer;
+begin
+  pos:= BuscarAlumno(a,alumnoDNI);
+  if pos <> -1 then
+  begin
+       a.notas[pos] := nota;
+  end;
+end;
+
+function CalcularNotaFinal(A: TAsignatura; AlumnoDNI: string): Real;
+var
+  pos: integer;
+  res: Real;
+begin
+  pos:= BuscarAlumno(a,alumnoDNI);
+  if pos <> -1 then
+  begin
+    res := a.notas[pos];
+  end;
+  CalcularNotaFinal := res;
+end;
 end.

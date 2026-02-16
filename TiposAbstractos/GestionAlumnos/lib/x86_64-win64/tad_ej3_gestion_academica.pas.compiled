@@ -2,5 +2,4 @@
 <CONFIG>
   <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1533567158"/>
   <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\2005m\Documents\Lazarus\TiposAbstractos\GestionAlumnos\lib\x86_64-win64 -FuC:\Users\2005m\Documents\Lazarus\TiposAbstractos\GestionAlumnos\ -FUC:\Users\2005m\Documents\Lazarus\TiposAbstractos\GestionAlumnos\lib\x86_64-win64\ -FEC:\Users\2005m\Documents\Lazarus\TiposAbstractos\GestionAlumnos\ -oC:\Users\2005m\Documents\Lazarus\TiposAbstractos\GestionAlumnos\tad_ej3_gestion_academica.pas.exe tad_ej3_gestion_academica.pas.lpr"/>
-  <Complete Value="False"/>
 </CONFIG>

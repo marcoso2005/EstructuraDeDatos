@@ -56,4 +56,5 @@ begin
   WriteLn;
   WriteLn('Notas finales Evaluación Final:');
   WriteLn('Pedro Martínez: ', uAsignaturaEvalFinal.CalcularNotaFinal(AsigFinal, '98765432C'):0:2);
+  readln;
 end.

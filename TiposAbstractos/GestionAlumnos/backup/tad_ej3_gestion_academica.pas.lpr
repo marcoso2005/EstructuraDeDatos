@@ -2,7 +2,7 @@
 program tad_ej3_gestion_academica.pas;
 
 uses
-  uPersona, uAsignaturaEvalContinua, uAsignaturaEvalFinal, Unit1, Unit2, Unit3;
+  uPersona, uAsignaturaEvalContinua, uAsignaturaEvalFinal;
 
 
 
@@ -56,4 +56,5 @@ begin
   WriteLn;
   WriteLn('Notas finales Evaluación Final:');
   WriteLn('Pedro Martínez: ', uAsignaturaEvalFinal.CalcularNotaFinal(AsigFinal, '98765432C'):0:2);
+  readl;
 end.
