@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="testpilaintegerextended.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="62"/>
+        <CursorPos X="5" Y="269"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upilaintegerextended.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPilaIntegerExtended"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="179"/>
+        <CursorPos X="14" Y="187"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="1">
+      <Position>
+        <Filename Value="upilaintegerextended.pas"/>
+        <Caret Line="173" Column="40" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="upilaintegerextended.pas"/>
+        <Caret Line="202" Column="23" TopLine="182"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
