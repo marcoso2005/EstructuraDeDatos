@@ -152,15 +152,4 @@
       <Modes ActiveMode=""/>
     </RunParams>
   </ProjectSession>
-  <Debugging>
-    <BreakPoints>
-      <Item>
-        <Kind Value="bpkSource"/>
-        <WatchScope Value="wpsLocal"/>
-        <WatchKind Value="wpkWrite"/>
-        <Source Value="pilas_ej1.lpr"/>
-        <Line Value="80"/>
-      </Item>
-    </BreakPoints>
-  </Debugging>
 </CONFIG>
