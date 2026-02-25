@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="testpilaintegerextended.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="154"/>
+        <CursorPos X="33" Y="181"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upilaintegerextendedarray.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPilaIntegerExtendedArray"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="324"/>
+        <CursorPos X="75" Y="340"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="upilaintegerextendedarray.pas"/>
+        <Caret Line="277" Column="5" TopLine="246"/>
+      </Position>
+      <Position>
+        <Filename Value="upilaintegerextendedarray.pas"/>
+        <Caret Line="205" Column="26" TopLine="190"/>
+      </Position>
+      <Position>
+        <Filename Value="upilaintegerextendedarray.pas"/>
+        <Caret Line="240" Column="27" TopLine="218"/>
+      </Position>
+      <Position>
+        <Filename Value="upilaintegerextendedarray.pas"/>
+        <Caret Line="299" Column="19" TopLine="283"/>
+      </Position>
+      <Position>
+        <Filename Value="upilaintegerextendedarray.pas"/>
+        <Caret Line="363" Column="13" TopLine="338"/>
+      </Position>
+      <Position>
+        <Filename Value="upilaintegerextendedarray.pas"/>
+        <Caret Line="366" Column="34" TopLine="339"/>
+      </Position>
+      <Position>
+        <Filename Value="upilaintegerextendedarray.pas"/>
+        <Caret Line="353" Column="83" TopLine="337"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
