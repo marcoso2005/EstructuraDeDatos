@@ -112,38 +112,48 @@ function balanceadaCorchetes(exp: string): boolean;
 var
   pila : tPilaChar;
   i: integer;
-  par: integer;
-  cor : integer;
+  bien : boolean;
 begin
     initialize(pila);
-    par := 0;
-    cor := 0;
-    for i := 0 to length(exp) do
+    i := 0;
+    bien := true;
+    while  (i <= length(exp)) AND (bien) do
     begin
-      push(pila,exp[i]);
+      if (exp[i] = '(') OR (exp[i] = '[') THEN
+      begin
+        push(pila,exp[i]);
+      end
+      else if (exp[i] = ')') OR (exp[i] = ']') THEN
+      begin
+        if NOT isempty(pila) THEN
+        begin
+          if (exp[i] = ')') AND (peek(pila) = '(') THEN
+          begin
+            pop(pila);
+          end
+          else if exp[i] = ']') AND (peek(pila) = '[') THEN
+          begin
+            pop(pila);
+          end
+          else
+          begin
+            bien := false;
+          end;
+        end
+        else
+        begin
+          bien := false;
+        end;
+      end;
+      i := i+1;
+
     end;
 
-    while NOT isEmpty(pila) do
+    if NOT isempty(pila) THEN
     begin
-        if peek(pila) = '(' then
-        begin
-          par := par+1;
-        end
-        else if peek(pila) = ')' then
-        begin
-          par := par-1;
-        end
-        else if peek(pila) = '[' then
-        begin
-          cor := cor+1;
-        end
-        else if peek(pila) = ']' then
-        begin
-          cor := cor-1;
-        end;
-        pop(pila)
+      bien := false;
     end;
-    balanceadaCorchetes := (par = 0) AND (cor = 0) ;
+    balanceadaCorchetes := bien;
 end;
 
 function showOkWrong(ok: boolean): string;
@@ -156,7 +166,6 @@ end;
 
 
 begin
-
     WriteLn('Ejemplo #', '  Expresión', #9#9, 'Res = Esp', #9, 'OK/ERROR');
     WriteLn('---------------------------------------------------------');
     WriteLn('Ejemplo 1: ', expresion1, #9#9, balanceada(expresion1), ' = ', resultado1, #9, showOkWrong(balanceada(expresion1) = resultado1));
@@ -170,7 +179,7 @@ begin
     WriteLn('Ejemplo 9: ', expresion9, #9, balanceadaCorchetes(expresion9), ' = ', resultado9, #9, showOkWrong(balanceadaCorchetes(expresion9) = resultado9));
     WriteLn('Ejemplo 10: ', expresion10, #9, balanceadaCorchetes(expresion10), ' = ', resultado10, #9, showOkWrong(balanceadaCorchetes(expresion10) = resultado10));
     WriteLn('Ejemplo 11: ', expresion11, #9, balanceadaCorchetes(expresion11), ' = ', resultado11, #9, showOkWrong(balanceadaCorchetes(expresion11) = resultado11));
-    WriteLn('Ejemplo 12: ', expresion12, #9, balanceadaCorchetes(expresion12), ' = ', resultado12, #9, showOkWrong(balanceadaCorchetes(expresion12) = resultado12));
+    WriteLn('Ejemplo 12: ', expresion12, #9, balanceada(expresion12), ' = ', resultado12, #9, showOkWrong(balanceada(expresion12) = resultado12));
     WriteLn('Ejemplo 13: ', expresion13, #9, balanceadaCorchetes(expresion13), ' = ', resultado13, #9, showOkWrong(balanceadaCorchetes(expresion13) = resultado13));
     readln;
 end.

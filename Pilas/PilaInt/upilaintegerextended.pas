@@ -186,20 +186,24 @@ implementation
     var
         aux : tPilaEnterosExt;
         res : integer;
+        num : integer;
     begin
         while NOT isempty(p) do
         begin
-            push(aux,peek(p));
+            peek(p,num);
+            push(aux,num);
             pop(p)
         end;
-        res := peek(aux);
+        peek(aux,res);
         while NOT isempty(p) do
         begin
-            push(aux,peek(p));
+            peek(p,num);
+            push(aux,num);
             pop(p)
         end;
 
         ultimo := res;
+        clear(aux);
     end;
 
     {
@@ -215,8 +219,24 @@ implementation
             - combinar([1, 2, 3], []) -> [1, 2, 3]
     }
     procedure combinar(var p1, p2: tPilaEnterosExt);
+    var
+        aux : tPilaEnterosExt;
+        i : integer;
     begin
-        WriteLn('Implementa la función combinar');
+         initialize(aux);
+         while not isempty(p2) do
+         begin
+              peek(p2,i);
+              push(aux,i);
+              pop(p2);
+         end;
+         while not isempty(aux) do
+         begin
+              peek(aux,i);
+              push(p1,i);
+              pop(aux);
+         end;
+         clear(aux);
     end;
 
     {
@@ -231,8 +251,15 @@ implementation
             - popN([1, 2, 3, 4, 5], 0) -> [1, 2, 3, 4, 5]
     }
     procedure popN(var p: tPilaEnterosExt; n: integer);
+    var
+        i: integer;
     begin
-        WriteLn('Implementa la función popN');
+    i:= 0;
+        while (i < n) AND (not isempty(p)) do
+        begin
+                pop(p);
+                i:= i+1;
+        end;
     end;
 
     {
@@ -247,8 +274,24 @@ implementation
             - sumarN([1, 2, 3, 4, 5], 0) -> [1, 2, 3, 4, 5]
     }
     procedure sumarN(var p: tPilaEnterosExt; n: integer);
+    var
+        i: integer;
+        sum : integer;
+        num : integer;
     begin
-        WriteLn('Implementa la función sumarN');
+    i:= 0;
+    sum := 0;
+    if(n <> 0) THEN
+    begin
+        while (i < n) AND (not isempty(p)) do
+        begin
+                peek(p,num);
+                sum := sum + num;
+                pop(p);
+                i:= i+1;
+        end;
+        push(p,sum);
+        end;
     end;
 
     {
@@ -262,8 +305,19 @@ implementation
             - invertir([1, 2, 3]) -> [3, 2, 1]
     }
     procedure invertir(var p: tPilaEnterosExt);
+    var
+        aux: tPilaEnterosExt;
+        num : integer;
     begin
-        WriteLn('Implementa la función invertir');
+    initialize(aux);;
+        while (not isempty(p)) do
+        begin
+
+                peek(p,num);
+                pop(p);
+                push(aux,num);
+        end;
+        p := aux;
     end;
 
     {
@@ -277,8 +331,23 @@ implementation
             - repetirN([1, 2, 3], 1) -> [1, 2, 3]
     }
     procedure repetirN(var p: tPilaEnterosExt; n: integer);
+    var
+        aux: tPilaEnterosExt;
+        num : integer;
+        j : integer;
     begin
-        WriteLn('Implementa la función repetirN');
+    initialize(aux);
+        while (not isempty(p)) do
+        begin
+                peek(p,num);
+                pop(p);
+                for j:= 0 to n do
+                begin
+                     push(aux,num);
+                end;
+        end;
+        p := aux;
+        clear(aux);
     end;
 
     {
@@ -293,8 +362,31 @@ implementation
             - contarApariciones([1, 2, 3, 4, 5, 2], 2) -> 2
     }
     function contarApariciones(var p: tPilaEnterosExt; n: integer): integer;
+    var
+        aux: tPilaEnterosExt;
+        num : integer;
+        cuen : integer;
     begin
-        WriteLn('Implementa la función contarApariciones');
+    initialize(aux);
+    cuen := 0;
+        while (not isempty(p)) do
+        begin
+                peek(p,num);
+                pop(p);
+                if(num = n) THEN
+                begin
+                    cuen:= cuen+1;
+                end;
+                push(aux,num);
+        end;
+        while (not isempty(aux)) do
+        begin
+                peek(aux,num);
+                pop(aux);
+                push(p,num);
+        end;
+        clear(aux);
+        contarApariciones := cuen;
     end;
 
 end.
