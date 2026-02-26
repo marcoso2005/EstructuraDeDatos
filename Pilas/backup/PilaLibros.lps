@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="PilaLibros.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="4"/>
+        <CursorPos X="14" Y="21"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upilalibros.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPilaLibros"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="7"/>
+        <CursorPos X="49" Y="23"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utlibro.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTLibro"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="5" Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="upilalibros.pas"/>
+        <Caret Line="116" Column="5" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="utlibro.pas"/>
+        <Caret Line="35" Column="5" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="PilaLibros.lpr"/>
+        <Caret Line="11" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="PilaLibros.lpr"/>
+        <Caret Line="16" Column="25" TopLine="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

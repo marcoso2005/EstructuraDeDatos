@@ -9,8 +9,8 @@
         <Filename Value="pilas_ej1.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="69"/>
-        <CursorPos Y="80"/>
+        <TopLine Value="115"/>
+        <CursorPos X="20" Y="134"/>
         <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
@@ -28,78 +28,6 @@
     <JumpHistory HistoryIndex="29">
       <Position>
         <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="79" TopLine="73"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="83" TopLine="73"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="94" TopLine="75"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="77" TopLine="73"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="79" TopLine="73"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="83" TopLine="73"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="85" TopLine="73"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="87" TopLine="73"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="84" Column="9" TopLine="73"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="69" Column="25" TopLine="49"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="81" Column="16" TopLine="81"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="158" Column="7" TopLine="149"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="81" TopLine="69"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="83" TopLine="69"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="85" TopLine="69"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="98" TopLine="87"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="81" TopLine="69"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
-        <Caret Line="83" TopLine="69"/>
-      </Position>
-      <Position>
-        <Filename Value="pilas_ej1.lpr"/>
         <Caret Line="87" TopLine="69"/>
       </Position>
       <Position>
@@ -145,6 +73,78 @@
       <Position>
         <Filename Value="pilas_ej1.lpr"/>
         <Caret Line="83" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="172" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="117" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="118" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="119" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="120" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="121" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="123" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="121" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="123" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="121" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="123" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="121" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="126" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="128" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="130" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="145" Column="24" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="140" Column="27" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="pilas_ej1.lpr"/>
+        <Caret Line="126" Column="30" TopLine="110"/>
       </Position>
     </JumpHistory>
     <RunParams>
