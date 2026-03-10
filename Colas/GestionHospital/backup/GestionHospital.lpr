@@ -1,0 +1,5 @@
+program GestionHospital;
+begin
+
+end.
+

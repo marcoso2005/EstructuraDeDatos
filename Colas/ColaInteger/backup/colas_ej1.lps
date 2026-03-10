@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="colas_ej1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="33"/>
+        <CursorPos X="15" Y="47"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucolainteger.pas"/>
+        <UnitName Value="uColaInteger"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="18" Y="23"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="colas_ej1.lpr"/>
+        <Caret Line="45" Column="5" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="colas_ej1.lpr"/>
+        <Caret Line="35" Column="14" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="colas_ej1.lpr"/>
+        <Caret Line="74" Column="32" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="colas_ej1.lpr"/>
+        <Caret Line="58" Column="13" TopLine="55"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
