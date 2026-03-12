@@ -1,0 +1,11 @@
+initialize	: O1
+is_empty	: O1
+first		: O1
+last		: O1
+insert_at_end	: O1
+insert_at_begin	: O1
+delete_at_end	: On
+delete_at_begin	: O1
+delete		: On
+in_list		: On
+rec_in_list	: O1
