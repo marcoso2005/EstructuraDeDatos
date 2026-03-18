@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1533567158"/>
-  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\2005m\Documents\Lazarus\Listas\ListasSimples\ParesImpares\lib\x86_64-win64 -FuC:\Users\2005m\Documents\Lazarus\Listas\ListasSimples\ParesImpares\ -FUC:\Users\2005m\Documents\Lazarus\Listas\ListasSimples\ParesImpares\lib\x86_64-win64\ -FEC:\Users\2005m\Documents\Lazarus\Listas\ListasSimples\ParesImpares\ -oC:\Users\2005m\Documents\Lazarus\Listas\ListasSimples\ParesImpares\listas_ej4.exe listas_ej4.lpr"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\2005m\Documents\Lazarus\EstructuraDeDatos\Listas\ListasSimples\ParesImpares\lib\x86_64-win64 -FuC:\Users\2005m\Documents\Lazarus\EstructuraDeDatos\Listas\ListasSimples\ParesImpares\ -FUC:\Users\2005m\Documents\Lazarus\EstructuraDeDatos\Listas\ListasSimples\ParesImpares\lib\x86_64-win64\ -FEC:\Users\2005m\Documents\Lazarus\EstructuraDeDatos\Listas\ListasSimples\ParesImpares\ -oC:\Users\2005m\Documents\Lazarus\EstructuraDeDatos\Listas\ListasSimples\ParesImpares\listas_ej4.exe listas_ej4.lpr"/>
 </CONFIG>

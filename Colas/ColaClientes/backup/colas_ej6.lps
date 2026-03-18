@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="colas_ej6.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos X="20" Y="38"/>
+        <UsageCount Value="20"/>
+        <Bookmarks Count="1">
+          <Item0 X="15" Y="38" Left="1" Top="13" ID="9"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucolaclientes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uColaClientes"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="6"/>
+        <CursorPos X="18" Y="24"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucliente.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCliente"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="18" Y="15"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="ucolaclientes.pas"/>
+        <Caret Line="161" Column="5" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="ucolaclientes.pas"/>
+        <Caret Line="8" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="colas_ej6.lpr"/>
+        <Caret Line="4" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ucolaclientes.pas"/>
+        <Caret Line="36" Column="23" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ucolaclientes.pas"/>
+        <Caret Line="5" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="ucolaclientes.pas"/>
+        <Caret Line="9" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ucolaclientes.pas"/>
+        <Caret Line="55" Column="35" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ucolaclientes.pas"/>
+        <Caret Line="114" Column="27" TopLine="97"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
