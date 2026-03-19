@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="listas_ej8.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="129"/>
+        <CursorPos Y="147"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEnlazadaCircularMod"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="196"/>
+        <CursorPos X="34" Y="211"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="listas_ej8.lpr"/>
+        <Caret Line="143" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="listas_ej8.lpr"/>
+        <Caret Line="144" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="210" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="212" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="213" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="214" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="210" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="218" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="206" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="220" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="206" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="220" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="215" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="216" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="218" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="206" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="220" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="206" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="220" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="listas_ej8.lpr"/>
+        <Caret Line="145" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="listas_ej8.lpr"/>
+        <Caret Line="146" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="listas_ej8.lpr"/>
+        <Caret Line="147" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="210" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="212" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="213" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="214" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="221" Column="60" TopLine="206"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="219" Column="64" TopLine="209"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="218" Column="16" TopLine="208"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadacircularmod.pas"/>
+        <Caret Line="261" Column="18" TopLine="248"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

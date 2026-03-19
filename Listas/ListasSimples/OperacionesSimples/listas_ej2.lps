@@ -8,8 +8,6 @@
       <Unit>
         <Filename Value="listas_ej2.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="34"/>
         <CursorPos X="9" Y="45"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -18,8 +16,8 @@
         <Filename Value="ulistaenlazadasimple.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="uListaEnlazadaSimple"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="18"/>
         <CursorPos X="30" Y="26"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
