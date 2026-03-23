@@ -47,7 +47,6 @@ begin
          writeln('El 2 esta ne la lista');
     end;
 
-    end;
 
 
 

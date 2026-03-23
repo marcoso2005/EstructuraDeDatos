@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="listas_ej9.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="21" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistaenlazadacircular.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEnlazadaCircular"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="165"/>
+        <CursorPos Y="181"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="ulistaenlazadacircular.pas"/>
+        <Caret Line="236" Column="5" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="listas_ej9.lpr"/>
+        <Caret Line="29" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="listas_ej9.lpr"/>
+        <Caret Line="25" Column="29" TopLine="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

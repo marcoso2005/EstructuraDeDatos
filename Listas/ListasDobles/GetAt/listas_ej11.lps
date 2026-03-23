@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="listas_ej11.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="100"/>
+        <CursorPos X="11" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistaenlazadadoblegetat.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEnlazadaDobleGetAt"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="198"/>
+        <CursorPos X="23" Y="220"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="ulistaenlazadadoblegetat.pas"/>
+        <Caret Line="215" Column="5" TopLine="184"/>
+      </Position>
+      <Position>
+        <Filename Value="listas_ej11.lpr"/>
+        <Caret Line="5" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadoblegetat.pas"/>
+        <Caret Line="222" Column="31" TopLine="194"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadoblegetat.pas"/>
+        <Caret Line="215" Column="20" TopLine="195"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadoblegetat.pas"/>
+        <Caret Line="225" Column="16" TopLine="194"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadoblegetat.pas"/>
+        <Caret Line="215" Column="29" TopLine="198"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

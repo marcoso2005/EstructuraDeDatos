@@ -34,6 +34,15 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="uListaEnlazadaCircular"/>
       </Unit>
+      <Unit>
+        <Filename Value="..\Eliminar\listas_ej9.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Eliminar\ulistaenlazadacircular.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEnlazadaCircular"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -44,6 +53,7 @@
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
+      <OtherUnitFiles Value="..\Eliminar"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Linking>

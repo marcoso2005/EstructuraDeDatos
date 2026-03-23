@@ -8,47 +8,46 @@
       <Unit>
         <Filename Value="listas_ej7.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="23"/>
-        <CursorPos Y="49"/>
-        <UsageCount Value="20"/>
-        <Loaded Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="30" Y="3"/>
+        <UsageCount Value="25"/>
       </Unit>
       <Unit>
         <Filename Value="ulistaenlazadacircular.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="uListaEnlazadaCircular"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="52" Y="82"/>
+        <UsageCount Value="25"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Eliminar\listas_ej9.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="24" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Eliminar\ulistaenlazadacircular.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEnlazadaCircular"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="43"/>
-        <CursorPos X="19" Y="14"/>
+        <CursorPos X="28"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="5">
+    <JumpHistory HistoryIndex="1">
       <Position>
-        <Filename Value="ulistaenlazadacircular.pas"/>
-        <Caret Line="236" Column="5" TopLine="205"/>
+        <Filename Value="..\Eliminar\listas_ej9.pas"/>
+        <Caret Line="203" Column="5" TopLine="172"/>
       </Position>
       <Position>
-        <Filename Value="listas_ej7.lpr"/>
-        <Caret Line="21" Column="31"/>
-      </Position>
-      <Position>
-        <Filename Value="listas_ej7.lpr"/>
-        <Caret Line="17" Column="5"/>
-      </Position>
-      <Position>
-        <Filename Value="listas_ej7.lpr"/>
-        <Caret Line="48" Column="5" TopLine="20"/>
-      </Position>
-      <Position>
-        <Filename Value="listas_ej7.lpr"/>
-        <Caret Line="29" Column="9" TopLine="15"/>
-      </Position>
-      <Position>
-        <Filename Value="listas_ej7.lpr"/>
-        <Caret Line="38" Column="30" TopLine="22"/>
+        <Filename Value="..\Eliminar\ulistaenlazadacircular.pas"/>
+        <Caret Column="28"/>
       </Position>
     </JumpHistory>
     <RunParams>
