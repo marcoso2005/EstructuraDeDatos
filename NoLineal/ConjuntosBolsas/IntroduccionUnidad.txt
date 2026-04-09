@@ -1,0 +1,54 @@
+type
+    tHashTabla = array[0..10] of tLista;
+
+procedure inicialize(var tabla: tHashTabla);
+procedure add(var tabla: tHashTabla; clave: String);
+procedure remove(var tabla: tHashTabla ;clave: String);
+function contains(var tabla: tHashTabla; clave: String): Boolean;
+function hash_function(clave: String): integer;
+
+procedure inicialize(var tabla: tHashTabla);
+var
+    i: integer;
+begin
+    for i:= 0 to 10 do
+	uLista.initialize(tabla[i]);
+end;
+
+procedure funcionHash(clave: String): integer
+var
+    hash,i : integer;
+begin
+    hash := 0;
+    for i:= 1 to Length(clave) do
+	hash:= (hash + Ord(clave[i])) mod 10;
+    funcionHash:= hash;
+end;
+
+procedure contains(clave: integer): Boolean;
+var 
+    hash: integer;
+begin
+    hash := funcionHash(clave);
+    contains := uLista.in_list(table[hash], clave);
+end;
+
+procedure add (var tabla: tHashTabla; clave: String);
+var
+    hash: integer;
+begin
+    hash:= funcionHash(clave);
+    if not uLista.in_list(tabla[hash], clave) then
+    begin
+	uLista.insert_at_end(tabla[hash],clave);
+    end;
+end;
+
+
+procedure remove(var tabla: tHashTabla; clave: String);
+var 
+    hash: integer;
+begin
+    hash := functionHash(clave);
+    uLista.delete(tabla[hash],clave);
+end;

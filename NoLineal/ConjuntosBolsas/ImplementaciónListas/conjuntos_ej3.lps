@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="conjuntos_ej3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="129"/>
+        <CursorPos X="25" Y="129"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistaenlazadasimple.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEnlazadaSimple"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="18"/>
+        <CursorPos X="28" Y="25"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umiconjunto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uMiConjunto"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="102"/>
+        <CursorPos X="29" Y="124"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="16">
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="31" Column="5" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="conjuntos_ej3.lpr"/>
+        <Caret Line="5" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="40" Column="66" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="31" Column="27" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="49" Column="43" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="38" Column="32" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="51" Column="14" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="63" Column="69" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="92" Column="7" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="25" Column="24" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="98" Column="7" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="conjuntos_ej3.lpr"/>
+        <Caret Line="197" Column="24" TopLine="260"/>
+      </Position>
+      <Position>
+        <Filename Value="conjuntos_ej3.lpr"/>
+        <Caret Line="37" Column="41" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="43" Column="38" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="39" Column="21" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="conjuntos_ej3.lpr"/>
+        <Caret Line="37" Column="41" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="umiconjunto.pas"/>
+        <Caret Line="92" Column="20" TopLine="80"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

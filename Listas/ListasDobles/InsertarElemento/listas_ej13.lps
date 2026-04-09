@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="listas_ej13.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="40" Y="4"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaEnlazadaDobleOrdenada"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="107"/>
+        <CursorPos X="22" Y="118"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="207" Column="5" TopLine="184"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="96" Column="30" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="98" Column="49" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="90" Column="21" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="93" Column="14" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="120" Column="31" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="107" Column="28" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="95" Column="20" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="97" Column="18" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="101" Column="25" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="107" Column="28" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="109" Column="43" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="102" Column="18" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistaenlazadadobleordenada.pas"/>
+        <Caret Line="127" Column="38" TopLine="110"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
