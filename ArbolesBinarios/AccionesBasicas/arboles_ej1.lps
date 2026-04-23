@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="arboles_ej1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="140"/>
+        <CursorPos X="38" Y="159"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ubinarytree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uBinaryTree"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="255"/>
+        <CursorPos X="47" Y="272"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="22">
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="196" Column="5" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="arboles_ej1.lpr"/>
+        <Caret Line="142" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="arboles_ej1.lpr"/>
+        <Caret Line="143" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="arboles_ej1.lpr"/>
+        <Caret Line="45" Column="9" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="151" Column="45" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="146" Column="21" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="147" Column="28" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="151" Column="6" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="147" Column="27" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="164" Column="7" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="178" Column="62" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="192" Column="26" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="210" Column="38" TopLine="194"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="221" Column="7" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="223" Column="16" TopLine="208"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="221" Column="30" TopLine="210"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="223" Column="31" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="248" Column="55" TopLine="232"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="247" Column="17" TopLine="235"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="235" Column="32" TopLine="220"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="272" Column="7" TopLine="251"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="268" Column="28" TopLine="255"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinarytree.pas"/>
+        <Caret Line="272" Column="60" TopLine="255"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
