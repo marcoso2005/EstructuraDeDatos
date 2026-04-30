@@ -19,8 +19,8 @@
         <UnitName Value="uTreeMap"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="150"/>
-        <CursorPos X="3" Y="153"/>
+        <TopLine Value="149"/>
+        <CursorPos X="26" Y="156"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -36,10 +36,6 @@
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="ulistaenlazadasimple.pas"/>
-        <Caret Line="144" TopLine="131"/>
-      </Position>
       <Position>
         <Filename Value="ulistaenlazadasimple.pas"/>
         <Caret Line="145" TopLine="131"/>
@@ -155,6 +151,10 @@
       <Position>
         <Filename Value="utreemap.pas"/>
         <Caret Line="93" Column="31" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="utreemap.pas"/>
+        <Caret Line="153" Column="3" TopLine="150"/>
       </Position>
     </JumpHistory>
     <RunParams>
