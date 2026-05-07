@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="test_lista_libros_modificada.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="27" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistalibros.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaLibros"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="40" Y="19"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utlibro.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTLibro"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="18" Y="15"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="119" Column="5" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="utlibro.pas"/>
+        <Caret Line="31" Column="5" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="77" Column="19" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="5" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="73" Column="21" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="76" Column="36" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="73" Column="21" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="108" Column="30" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="68" Column="10" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="17" Column="48" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="68" Column="11" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="17" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="106" Column="30" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistalibros.pas"/>
+        <Caret Line="19" Column="40" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="test_lista_libros_modificada.lpr"/>
+        <Caret Line="39" Column="25"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="test_lista_generica.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="36"/>
+        <CursorPos X="39" Y="51"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utelement.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTElement"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="5"/>
+        <CursorPos X="25" Y="25"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulistagenerica.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uListaGenerica"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="17" Y="70"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="17">
+      <Position>
+        <Filename Value="utelement.pas"/>
+        <Caret Line="28" Column="5" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistagenerica.pas"/>
+        <Caret Line="119" Column="5" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistagenerica.pas"/>
+        <Caret Line="107" Column="40" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistagenerica.pas"/>
+        <Caret Line="4" Column="16" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistagenerica.pas"/>
+        <Caret Line="16" Column="14" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistagenerica.pas"/>
+        <Caret Line="7" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ulistagenerica.pas"/>
+        <Caret Line="70" Column="17" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="test_lista_generica.lpr"/>
+        <Caret Line="42" Column="11" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="utelement.pas"/>
+        <Caret Line="27" Column="44" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="test_lista_generica.lpr"/>
+        <Caret Line="42" Column="13" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="utelement.pas"/>
+        <Caret Line="10" Column="13" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="utelement.pas"/>
+        <Caret Line="27" Column="44" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="test_lista_generica.lpr"/>
+        <Caret Line="42" Column="11" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="test_lista_generica.lpr"/>
+        <Caret Line="64" Column="11" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="utelement.pas"/>
+        <Caret Line="27" Column="44" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="utelement.pas"/>
+        <Caret Line="10" Column="21" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="utelement.pas"/>
+        <Caret Line="6" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="utelement.pas"/>
+        <Caret Line="25" Column="18" TopLine="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
